@@ -1,0 +1,10 @@
+<suite name="suite">
+    <test name="test suite">
+        <classes>
+            <class name="TestCases" />
+                <methods>
+                    <include name="third" />
+                </methods>
+        </classes>
+    </test>
+</suite>
